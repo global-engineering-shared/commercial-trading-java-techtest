@@ -2,7 +2,7 @@
 A simple command line utility for finding anagrams in a specified file
 
 ## Software required to run this
-* Java 17
+* Java 21
 
 ## Building and Running the tests
 ```
